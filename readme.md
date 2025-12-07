@@ -77,5 +77,6 @@ Required binaries (installed automatically if missing):
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/universal-media-downloader.git
-cd universal-media-downloader
+git clone https://github.com/Abdelhay24/media-installer
+cd media-installer
+```
